@@ -1,0 +1,52 @@
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+
+h1{
+  font-size: x-large; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+section{
+  padding-top: 5rem;
+}
+
+.experince{
+  color: greenyellow;
+}
+
+.social-link a{
+  margin-top: 25px;
+  height: 35px;
+  width: 35px;
+  display: inline-block;
+  text-align: center;
+}
+
+.social-link a{
+  margin-top: 25px;
+  height: 35px;
+  width: 35px;
+  display: inline-block;
+  text-align: center;
+  line-height: 35px;
+  color: #ffffff;
+  margin: 0 4px;
+  border-radius: 50%;
+  border-color: black;
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.social-link a:hover{
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
